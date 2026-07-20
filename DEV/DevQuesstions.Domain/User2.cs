@@ -2,5 +2,5 @@
 
 public class User2
 {
-
+public int NewIssue_1MyProperty { get; set; }
 }
